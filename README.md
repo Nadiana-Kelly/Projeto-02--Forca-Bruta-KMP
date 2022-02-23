@@ -1,0 +1,1 @@
+# LabProgramacao-Forca-Bruta-KMP
